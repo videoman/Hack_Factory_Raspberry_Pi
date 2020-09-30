@@ -6,7 +6,7 @@ If you want the presentation that goes along with this, please feel free to emai
 
 The "CatFeeder" has been forked into it's own project here: https://github.com/videoman/RPICatFeeder
 
--David Bryan
+-David Bryan (The best Creator)
 dave at drstrangelove dot net
 
 
